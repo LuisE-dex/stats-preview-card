@@ -20,8 +20,9 @@ Este proyecto forma parte de los retos de Frontend Mentor y fue desarrollado sig
 
 ## 📸 Captura de pantalla
 
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_500/Screenshots/ywyl1ssbr7bpj31jd5gy.jpg" alt="Texto alternativo" style="display: block; margin: 0 auto;">
-
+<p align="center">
+  <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_500/Screenshots/ywyl1ssbr7bpj31jd5gy.jpg" alt="CapturaDePantalla">
+</p>
 
 ## 🎯 Objetivos del reto
 
